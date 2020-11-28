@@ -11,8 +11,8 @@ I believe in life-long learning and knowledge sharing. I also deeply believe in 
 ## Things I'm working on
 - 🔭 Building server side web applications using Golang and Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzaytsev91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![stats](https://github-readme-stats.vercel.app/api?username=dzaytsev91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzaytsev91&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=dzaytsev91&count_private=true)
 
 ## You can find me on
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/dzaytsev91)<br>
