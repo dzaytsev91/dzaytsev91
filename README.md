@@ -11,7 +11,7 @@ I believe in life-long learning and knowledge sharing. I also deeply believe in 
 ## Things I'm working on
 - 🔭 Building server side web applications using Golang and Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzaytsev91&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzaytsev91&count_private=true)
 ![stats](https://github-readme-stats.vercel.app/api?username=dzaytsev91&count_private=true)
 
 ## You can find me on
