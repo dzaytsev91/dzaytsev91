@@ -15,4 +15,4 @@ I believe in life-long learning and knowledge sharing. I also deeply believe in 
 ![stats](https://github-readme-stats.vercel.app/api?username=dzaytsev91&count_private=true)
 
 ## You can find me on
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/dzaytsev91)<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/logovskii/)<br>
